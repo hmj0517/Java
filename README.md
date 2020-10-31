@@ -45,7 +45,7 @@
     System.out.println("小丽选课信息 --> " + xiaoLiStu.getSelectedCourse());
 ```
 ## 五、系统运行截图
-![RUNOOB 图标](https://mail.qq.com/cgi-bin/read_note?sid=EfznNw1t9ex2AHUq&catid=0&noteid=_5) 
+![RUNOOB 图标](https://mail.qq.com/cgi-bin/read_note?sid=GfTqlK62iZANUSR7&catid=0&noteid=_5) 
 ## 六、编程感想
 通过本次实验,我学会定义类中的属性以及方法、基本掌握类的继承的使用，同时基本了解了super()和super(args...)的使用。
    
